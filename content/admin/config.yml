@@ -1,12 +1,7 @@
 backend:
-  name: netlify-api
-  url: http://localhost:8080
-
-production:
-  backend:
-    name: github
-    repo: alexjj/pelican-netlify-cms # Change this to your repo
-    branch: master
+  name: github
+  repo: alexjj/pelican-netlify-cms # Change this to your repo
+  branch: master
 
 publish_mode: editorial_workflow
 
