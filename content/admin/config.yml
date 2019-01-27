@@ -32,7 +32,7 @@ collections: # A list of collections the CMS should be able to edit
       - name: "about"
         label: "About"
         file: "content/pages/about.md"
-        format: markdown-python
+        format: markdown
         fields:
           - {label: "Page Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
