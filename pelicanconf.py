@@ -4,7 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Netlify'
 SITENAME = u'cms-template'
-SITEURL = ''
+SITEURL = 'https://loving-mcclintock-82ed7d.netlify.com/'
+
+THEME = 'simple'
 
 PATH = 'content'
 
