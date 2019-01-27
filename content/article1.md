@@ -1,7 +1,10 @@
-title: Article One
-date: 2015-09-09
-category: General
+---
+title: Hello
+---
+## What a nice article.
 
-# This is an Article
 
-This is a basic article written in pelican
+
+```
+Code
+```
